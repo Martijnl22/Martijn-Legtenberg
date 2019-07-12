@@ -1,0 +1,6 @@
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10Site\bin\Debug\Opdracht5.10Site.exe.config
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10Site\bin\Debug\Opdracht5.10Site.exe
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10Site\bin\Debug\Opdracht5.10Site.pdb
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10Site\obj\Debug\Opdracht5.10Site.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10Site\obj\Debug\Opdracht5.10Site.exe
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10Site\obj\Debug\Opdracht5.10Site.pdb

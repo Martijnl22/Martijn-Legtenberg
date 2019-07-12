@@ -1,0 +1,7 @@
+D:\Visual Studio\Opdracht_2.4\Opdracht_2.4\bin\Debug\Opdracht_2.4.exe.config
+D:\Visual Studio\Opdracht_2.4\Opdracht_2.4\bin\Debug\Opdracht_2.4.exe
+D:\Visual Studio\Opdracht_2.4\Opdracht_2.4\bin\Debug\Opdracht_2.4.pdb
+D:\Visual Studio\Opdracht_2.4\Opdracht_2.4\obj\Debug\Opdracht_2.4.csprojAssemblyReference.cache
+D:\Visual Studio\Opdracht_2.4\Opdracht_2.4\obj\Debug\Opdracht_2.4.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Opdracht_2.4\Opdracht_2.4\obj\Debug\Opdracht_2.4.exe
+D:\Visual Studio\Opdracht_2.4\Opdracht_2.4\obj\Debug\Opdracht_2.4.pdb

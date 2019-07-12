@@ -1,0 +1,7 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.2\bin\Debug\Opdracht4.2.exe.config
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.2\bin\Debug\Opdracht4.2.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.2\bin\Debug\Opdracht4.2.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.2\obj\Debug\Opdracht4.2.csprojAssemblyReference.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.2\obj\Debug\Opdracht4.2.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.2\obj\Debug\Opdracht4.2.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.2\obj\Debug\Opdracht4.2.pdb

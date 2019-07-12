@@ -1,0 +1,14 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\bin\Debug\Opdracht4.5.exe.config
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\bin\Debug\Opdracht4.5.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\bin\Debug\Opdracht4.5.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\obj\Debug\Opdracht4.5.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\obj\Debug\Opdracht4.5.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\obj\Debug\Opdracht4.5.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\obj\Debug\Opdracht4.5.csprojAssemblyReference.cache
+C:\Users\Patrick\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\bin\Debug\Opdracht4.5.exe.config
+C:\Users\Patrick\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\bin\Debug\Opdracht4.5.exe
+C:\Users\Patrick\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\bin\Debug\Opdracht4.5.pdb
+C:\Users\Patrick\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\obj\Debug\Opdracht4.5.csprojAssemblyReference.cache
+C:\Users\Patrick\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\obj\Debug\Opdracht4.5.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\obj\Debug\Opdracht4.5.exe
+C:\Users\Patrick\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M04-Selecties\Opdracht4.5\obj\Debug\Opdracht4.5.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdacht5.19\bin\Debug\Opdacht5.19.exe.config
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdacht5.19\bin\Debug\Opdacht5.19.exe
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdacht5.19\bin\Debug\Opdacht5.19.pdb
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdacht5.19\obj\Debug\Opdacht5.19.csprojAssemblyReference.cache
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdacht5.19\obj\Debug\Opdacht5.19.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdacht5.19\obj\Debug\Opdacht5.19.exe
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdacht5.19\obj\Debug\Opdacht5.19.pdb

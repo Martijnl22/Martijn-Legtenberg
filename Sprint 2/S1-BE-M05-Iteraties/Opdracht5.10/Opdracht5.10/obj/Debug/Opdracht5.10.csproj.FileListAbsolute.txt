@@ -1,0 +1,7 @@
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10\bin\Debug\Opdracht5.10.exe.config
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10\bin\Debug\Opdracht5.10.exe
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10\bin\Debug\Opdracht5.10.pdb
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10\obj\Debug\Opdracht5.10.csprojAssemblyReference.cache
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10\obj\Debug\Opdracht5.10.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10\obj\Debug\Opdracht5.10.exe
+D:\Visual Studio\Sprint 2\S1-BE-M05-Iteraties\Opdracht5.10\Opdracht5.10\obj\Debug\Opdracht5.10.pdb

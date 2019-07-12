@@ -1,0 +1,7 @@
+D:\Visual Studio\Opdracht 1.1\Opdracht 1.1\Opdracht 1.1\bin\Debug\Opdracht 1.1.exe.config
+D:\Visual Studio\Opdracht 1.1\Opdracht 1.1\Opdracht 1.1\bin\Debug\Opdracht 1.1.exe
+D:\Visual Studio\Opdracht 1.1\Opdracht 1.1\Opdracht 1.1\bin\Debug\Opdracht 1.1.pdb
+D:\Visual Studio\Opdracht 1.1\Opdracht 1.1\Opdracht 1.1\obj\Debug\Opdracht 1.1.csprojAssemblyReference.cache
+D:\Visual Studio\Opdracht 1.1\Opdracht 1.1\Opdracht 1.1\obj\Debug\Opdracht 1.1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Opdracht 1.1\Opdracht 1.1\Opdracht 1.1\obj\Debug\Opdracht 1.1.exe
+D:\Visual Studio\Opdracht 1.1\Opdracht 1.1\Opdracht 1.1\obj\Debug\Opdracht 1.1.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio\Sprint 2\S1-BE-M03\S1-BE-M03\bin\Debug\S1-BE-M03.exe.config
+D:\Visual Studio\Sprint 2\S1-BE-M03\S1-BE-M03\bin\Debug\S1-BE-M03.exe
+D:\Visual Studio\Sprint 2\S1-BE-M03\S1-BE-M03\bin\Debug\S1-BE-M03.pdb
+D:\Visual Studio\Sprint 2\S1-BE-M03\S1-BE-M03\obj\Debug\Opdracht3.1.csprojAssemblyReference.cache
+D:\Visual Studio\Sprint 2\S1-BE-M03\S1-BE-M03\obj\Debug\Opdracht3.1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Sprint 2\S1-BE-M03\S1-BE-M03\obj\Debug\S1-BE-M03.exe
+D:\Visual Studio\Sprint 2\S1-BE-M03\S1-BE-M03\obj\Debug\S1-BE-M03.pdb

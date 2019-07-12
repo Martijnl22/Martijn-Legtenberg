@@ -1,0 +1,7 @@
+D:\Visual Studio\Sprint 2\S1-BE-M04-Selecties\S1-BE-M04-Selecties\bin\Debug\S1-BE-M04-Selecties.exe.config
+D:\Visual Studio\Sprint 2\S1-BE-M04-Selecties\S1-BE-M04-Selecties\bin\Debug\S1-BE-M04-Selecties.exe
+D:\Visual Studio\Sprint 2\S1-BE-M04-Selecties\S1-BE-M04-Selecties\bin\Debug\S1-BE-M04-Selecties.pdb
+D:\Visual Studio\Sprint 2\S1-BE-M04-Selecties\S1-BE-M04-Selecties\obj\Debug\Opdracht4.1.csprojAssemblyReference.cache
+D:\Visual Studio\Sprint 2\S1-BE-M04-Selecties\S1-BE-M04-Selecties\obj\Debug\Opdracht4.1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Sprint 2\S1-BE-M04-Selecties\S1-BE-M04-Selecties\obj\Debug\S1-BE-M04-Selecties.exe
+D:\Visual Studio\Sprint 2\S1-BE-M04-Selecties\S1-BE-M04-Selecties\obj\Debug\S1-BE-M04-Selecties.pdb
